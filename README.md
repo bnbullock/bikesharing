@@ -71,8 +71,8 @@ To see the presentation story please click the link below:
 ![Image7](images/7TypeGender1.png)
 
 ### Additional Visualizations that could be Useful
-- Further refinement of the peak 5 minute usage could be helpful in identifying if subscribers are using trains or buses to get to the downtown area and then uutilizing the bike sharing service for the short commute to their office location.
-- It would be great to understand 
+- Further refinement of the peak 5 minute usage could be helpful in identifying if subscribers are using trains or buses to get to the downtown area and then utilizing the bike sharing service for the short commute to their office location or if subscribers are commuting from home directly.
+- It would also be great to understand if the bike sharing service can be marketed from an exercise/health point of view. We see a signifigant jump in usage when users turn 50, why is the data showing this? Is biking an exercise alternative that can be another form of revenue?
 
 ------------------------------------------------------------------------------------------------------------
 
