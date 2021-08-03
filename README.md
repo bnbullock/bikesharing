@@ -26,7 +26,9 @@ With this task in mind, we are asked to retrieve more information from the citi 
 
 ## Results
 
-[link to dashboard](https://public.tableau.com/app/profile/barney.bullock/viz/Challenge14v2/CitiBikeStory?publish=yes)
+To see the presentation story please click the link below:
+
+[Link to dashboard](https://public.tableau.com/app/profile/barney.bullock/viz/Challenge14v2/CitiBikeStory?publish=yes)
 
 ### Trip Duration
 - The peak trip duration is usually seen to be between 5 and 6 minutes. This means citi bike clients are using the service for very short term travel as shown below.
@@ -34,7 +36,7 @@ With this task in mind, we are asked to retrieve more information from the citi 
 ![Image1](images/1UserCheckout1.png)
 
 ### Trip Duration by Gender
-- Further breaking down the trip duration by gender, we see that males use the bike sharing service predominantly more for trips of 5 minutes.
+- Further breaking down the trip duration by gender, we see that males use the bike sharing service predominantly more at a ratio of 3 to 1.
 
 ![Image2](images/2GenderCheckout1.png)
 
@@ -44,31 +46,43 @@ With this task in mind, we are asked to retrieve more information from the citi 
   - 5PM - 7PM Monday to Friday
   - 10AM - 6PM Saturdays
   - 12AM - 5PM Sundays
-- This breakdown indicates that bikes are used for commuting to and from work on weekdays and also used on weekends for leisure or tourist destinations.
+- This breakdown indicates that bikes are used for commuting to and from work on weekdays and also used on weekends for leisure pursuits or tourist destinations.
 
 ![Image3](images/3Trips1.png)
 
 ### Breakdown by Day and Gender Usage
-- The above peak times are further qualified by the image below that shows all genders using the service in a similar fashion. However, male usage is 2 to 4 times more pronounced within those peak times.
+- The above peak times are further qualified by the image below that shows all genders using the service in a similar fashion. However, male usage is 3 times more pronounced within those peak times.
 
 ![Image4](images/4TripsbyGender1.png)
 
 ### Breakdown by Usertype and Gender/Weekday Usage
-- Further refinement of the bike sharing usage brings us to the visualization below that shows subscribers as the primary users of the service versus walk in customers. Male subscribers again making upfor the majority of users throughout the week.
+- Further refinement of the bike sharing usage brings us to the visualization below that shows subscribers as the primary users of the service versus walk in customers. Male subscribers again making up for the majority of users throughout the week.
 
 ![Image5](images/5TripsType1.png)
 
 ### Trips taken by Birth Year and Gender
-- The age group of all users that have the most imapct on bike trips is from 24-40 year olds. Also, we see a big jump in usage for users that turn 50 years old.
+- The age group of all users that have the most usage impact on bike trips is from 24-40 year olds. Also, we see a big jump in usage for users that turn 50 years old.
 
 ![Image6](images/6BirthGender1.png)
 
 ### Potential Pilot Group
-- Based on the image below we can see how important subscribers are to the bike sharing service. Female subscribers show 5 times more usage than walk up clients and for males its 10 to one.
+- Based on the image below we can see how important subscribers are to the bike sharing service. Female subscribers show 5 times more usage than walk up clients and for males its 10 times.
 
 ![Image7](images/7TypeGender1.png)
+
+### Additional Visualizations that could be Useful
+- Further refinement of the peak 5 minute usage could be helpful in identifying if subscribers are using trains or buses to get to the downtown area and then uutilizing the bike sharing service for the short commute to their office location.
+- It would be great to understand 
 
 ------------------------------------------------------------------------------------------------------------
 
 ## Overall Summary
-- The downtown area of Des Moines with art museaums and historic buildin.
+- The downtown area of Des Moines which has many attractions, some of these are art and historical museums, downtown farmers market, botanical gardens, science centre, performing arts centers, Wells Fargo arena, Civic center, etc. There are many places of interest that tourists and locals find endearing with rivers to the East and South and plenty of activities within a short distance of the downtown area. This feels like an ideal location to pilot a local bike sharing service that can be modelled after citi bike in New york City. We have identified that bike trips from citi bike have the following characteristics based on the data analysis above.
+  - Peak trip usage is 5 minutes
+  - The ratio of males to females in terms of usage is 3 to 1
+  - There is a clear and defined usage pattern for commuting and weekend leisure/tourist use
+  - Subscribers tend to use the service at a much higher level than walk-in customers
+  - There are specific demographic groups identified showing we should target age groups 24-40 and 49-50
+  - Finally we can see the importance of recruiting subscribers early and on an on-going basis to grow the business
+
+In order for a bike sharing service to be successful, subscribers will need to be cultivated early from the age groups identified. It's also important to look for subscribers who live within the five minute commute radius of downtown or those using bikes for the last leg of their commute. Further, there are many attractions within a short distance of the downtown area that can add incremtal revenue, whether it's the local population or visitors to Des Moines. There also pre-existing bike trails and paths located in the downtown vicinity that are used today. There are many positive attributes identified above that point to Des Moines as a viable destination for piloting a bike sharing service. I believe this presentation adds merit to why a succefful pilot can be realized in this community.
