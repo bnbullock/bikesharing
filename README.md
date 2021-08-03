@@ -71,4 +71,4 @@ With this task in mind, we are asked to retrieve more information from the citi 
 ------------------------------------------------------------------------------------------------------------
 
 ## Overall Summary
--
+- The downtown area of Des Moines with 
