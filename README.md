@@ -18,7 +18,7 @@ With this task in mind, we are asked to retrieve more information from the citi 
 ------------------------------------------------------------------------------------------------------------
 
 ## Resources
-- Software: Visual Studio Code 1.56.2, Python 3.7.10, jupyter Notebook Server 6.3.0
+- Software: Visual Studio Code 1.56.2, Python 3.7.10, Jupyter Notebook Server 6.3.0, Tableau Public 2021.2
 - Browser : Google Chrome v91.0.4472.124 
 - Data Source: https://s3.amazonaws.com/tripdata/index.html#:~:text=ZIP%20file-,201908-citibike-tripdata.csv.zip,-Sep%2018th%202019
 
